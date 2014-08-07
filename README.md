@@ -1,4 +1,4 @@
 MIUI_Germany_Strings
 ====================
 
-German XML's
+Deutsche Strings für die ROMs von MIUI Germany
