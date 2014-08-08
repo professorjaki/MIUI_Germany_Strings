@@ -65,7 +65,7 @@
   <string name="st_block_setting_title">Anrufe und Nachrichten</string>
   <string name="st_block_title">Blockieren und Verlauf</string>
   <string name="st_block_unknown_call">Unbekannte Anrufer blockieren</string>
-  <string name="st_block_unknown_sms">Unbekannten Nachrichten blockieren</string>
+  <string name="st_block_unknown_sms">Unbekannte Nachrichten blockieren</string>
   <string name="st_call_group">Anrufe</string>
   <string name="st_common_setting_group">Filter Einstellungen</string>
   <string name="st_filter_keywords_setting_summary1">Nachrichten von unbekannten Kontakten werden blockiert.</string>
