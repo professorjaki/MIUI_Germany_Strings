@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="wifi_available">
-        <item quantity="other">Wlan Netzwerke verfügbar</item>
-        <item quantity="one">Wlan Netzwerk verfügbar</item>
+        <item quantity="other">Wlan Netzwerke verf&#252;gbar</item>
+        <item quantity="one">Wlan Netzwerk verf&#252;gbar</item>
     </plurals>
     <plurals name="wifi_available_detailed">
-        <item quantity="other">Cloud hotspots verfügbar</item>
-        <item quantity="one">Cloud hotspot verfügbar</item>
+        <item quantity="other">Cloud hotspots verf&#252;gbar</item>
+        <item quantity="one">Cloud hotspot verf&#252;gbar</item>
     </plurals>
 </resources>
