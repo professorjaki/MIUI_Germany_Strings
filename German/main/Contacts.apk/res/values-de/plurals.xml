@@ -1,92 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d contacts with phone numbers</item>
-        <item quantity="one">1 contact with phone number</item>
+        <item quantity="other">%d Kontake mit Telefonnummern</item>
+        <item quantity="one">Ein Kontakt mit Telefonnummer</item>
     </plurals>
     <plurals name="listTotalAllContacts">
-        <item quantity="other">%d contacts</item>
-        <item quantity="one">1 contact</item>
+        <item quantity="other">%d Kontakte</item>
+        <item quantity="one">Ein Kontakt</item>
     </plurals>
     <plurals name="listFoundAllContacts">
-        <item quantity="other">%d found</item>
-        <item quantity="one">1 found</item>
+        <item quantity="other">%d gefunden</item>
+        <item quantity="one">Einen gefunden</item>
     </plurals>
     <plurals name="searchFoundContacts">
-        <item quantity="other">%d found</item>
-        <item quantity="one">1 found</item>
+        <item quantity="other">%d gefunden</item>
+        <item quantity="one">Einen gefunden</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">merged from %0$d sources</item>
-        <item quantity="one">not merged</item>
+        <item quantity="other">zusammengeführt aus %0$d Kontakten</item>
+        <item quantity="one">nicht zusammengeführt</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%0$d groups</item>
-        <item quantity="one">1 group</item>
+        <item quantity="other">%0$d Gruppen</item>
+        <item quantity="one">Eine Gruppe</item>
     </plurals>
     <plurals name="num_contacts_in_group">
-        <item quantity="other">%1$d people from %2$s</item>
-        <item quantity="one">%1$d person from %2$s</item>
+        <item quantity="other">%1$d Personen von %2$s</item>
+        <item quantity="one">%1$d Person von %2$s</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
-        <item quantity="other">%1$d people</item>
-        <item quantity="one">%1$d person</item>
+        <item quantity="other">%1$d Personen</item>
+        <item quantity="one">%1$d Person</item>
     </plurals>
     <plurals name="group_list_num_numbers_in_group">
-        <item quantity="other">%1$d numbers</item>
-        <item quantity="one">%1$d number</item>
+        <item quantity="other">%1$d Nummern</item>
+        <item quantity="one">%1$d Nummer</item>
     </plurals>
     <plurals name="notification_voicemail_title">
         <item quantity="other">%1$d Voicemails</item>
         <item quantity="one">Voicemail</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
+        <item quantity="other">%1$d ausgewählt</item>
+        <item quantity="one">%1$d ausgewählt</item>
     </plurals>
     <plurals name="pick_favorites_list_title">
-        <item quantity="other">%1$d favorites</item>
-        <item quantity="one">%1$d favorite</item>
+        <item quantity="other">%1$d Favoriten</item>
+        <item quantity="one">%1$d Favorit</item>
     </plurals>
     <plurals name="pick_recent_list_title">
-        <item quantity="other">%1$d recent contacts</item>
-        <item quantity="one">1 recent contact</item>
+        <item quantity="other">%1$d kürzliche Kontakte</item>
+        <item quantity="one">Ein kürzlicher Kontakt</item>
     </plurals>
     <plurals name="hint_search_contacts">
-        <item quantity="other">%1$d contacts</item>
-        <item quantity="one">%1$d contact</item>
+        <item quantity="other">%1$d Kontakte</item>
+        <item quantity="one">%1$d Kontakt</item>
     </plurals>
     <plurals name="hint_search_phone_numbers">
-        <item quantity="other">%1$d numbers</item>
-        <item quantity="one">%1$d number</item>
+        <item quantity="other">%1$d Nummern</item>
+        <item quantity="one">%1$d Nummer</item>
     </plurals>
     <plurals name="hint_search_emails">
-        <item quantity="other">%1$d contact emails</item>
-        <item quantity="one">1 contact email</item>
+        <item quantity="other">%1$d Kontakt-E-Mails</item>
+        <item quantity="one">Eine Kontakt-E-Mail</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
-        <item quantity="other">%1$d favorites</item>
-        <item quantity="one">%1$d favorite</item>
+        <item quantity="other">%1$d Favoriten</item>
+        <item quantity="one">%1$d Favorit</item>
     </plurals>
     <plurals name="pick_recent_contacts_list_title">
-        <item quantity="other">%1$d recent contacts</item>
-        <item quantity="one">%1$d recent contact</item>
+        <item quantity="other">%1$d kürzliche Kontakte</item>
+        <item quantity="one">%1$d kürzlicher Kontakt</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">" %1$d  contacts added"</item>
-        <item quantity="one">%1$d contact added</item>
+        <item quantity="other">" %1$d Kontakte hinzufügt"</item>
+        <item quantity="one">%1$d Kontakt hinzugefügt</item>
     </plurals>
     <plurals name="smart_group_member_count">
-        <item quantity="other">%d people</item>
-        <item quantity="one">1 person</item>
+        <item quantity="other">%d Personen</item>
+        <item quantity="one">1 Person</item>
     </plurals>
     <plurals name="device_import_done_toast">
-        <item quantity="other">%1$d contacts imported</item>
-        <item quantity="one">%1$d contact imported</item>
+        <item quantity="other">%1$d Kontakte importiert</item>
+        <item quantity="one">%1$d Kontakt importiert</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
-        <item quantity="other">" %1$d selected"</item>
-        <item quantity="zero">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
+        <item quantity="other">" %1$d ausgewählt"</item>
+        <item quantity="zero">%1$d ausgewählt</item>
+        <item quantity="one">%1$d ausgewählt</item>
     </plurals>
 </resources>

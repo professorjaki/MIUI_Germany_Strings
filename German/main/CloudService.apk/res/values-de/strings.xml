@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Xiaomi sync</string>
-  <string name="find_device">Find device</string>
-  <string name="find_device_stop_noise">Click \"OK\" to stop alert tone</string>
+  <string name="app_name">Xiaomi Synchronisation</string>
+  <string name="find_device">Gerät finden</string>
+  <string name="find_device_stop_noise">Halten Sie den Alarm mit \"OK\" an</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Fotos über Wi-Fi synchronisieren (vermeidet Extrakosten)</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Sync photos using Wi-Fi to avoid extra data charges</string>
-  <string name="pref_title_sync_contacts_title">Sync contact</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">Use Wi-Fi to display photos</string>
-  <string name="sub_sync_item_sms_summary">Sync messages using Wi-Fi to avoid extra data charges</string>
-  <string name="sub_sync_item_sms_title_wifi_only">Use Wi-Fi to sync messages</string>
-  <string name="sync_item_sms_summary">Messages will be automatically synchronised</string>
-  <string name="sync_item_sms_title">Sync messages</string>
+  <string name="pref_title_sync_contacts_title">Kontakt synchronisieren</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Benutze Wi-Fi, um Fotos anzuzeigen</string>
+  <string name="sub_sync_item_sms_summary">Nachrichten über Wi-FI synchronisieren (vermeidet Extrakosten)</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Nachrichten über Wi-Fi synchronisieren</string>
+  <string name="sync_item_sms_summary">Nachrichten werden automatisch synchronisiert</string>
+  <string name="sync_item_sms_title">Nachrichten synchronisieren</string>
 </resources>
