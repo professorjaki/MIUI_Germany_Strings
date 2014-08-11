@@ -124,7 +124,7 @@
   <string name="loading">Lade…</string>
   <string name="local_calendar_display_name">Lokaler Kalender</string>
   <string name="local_owner_account_name">Lokales Konto</string>
-  <string name="lunar_date">Monddatum</string>
+  <string name="lunar_date">Sternzeichen</string>
   <string name="menu_about_preferences">Über Kalender</string>
   <string name="menu_general_preferences">Allgemeine Einstellungen</string>
   <string name="menu_preferences">Einstellungen</string>
@@ -210,7 +210,7 @@
   <string name="select_synced_calendars_button">Zu synchronisierende Kalender</string>
   <string name="select_synced_calendars_title">Zu synchronisiernde Kalender</string>
   <string name="select_visible_calendars_title">Anzuzeigende Kalender</string>
-  <string name="show_all_lunar">Zeige Mond-Termine</string>
+  <string name="show_all_lunar">Zeige Sternzeichen</string>
   <string name="show_almanac">Zeige Kalender</string>
   <string name="show_controls">Zeige Bedienung</string>
   <string name="show_day_view">Zeige Tag</string>
