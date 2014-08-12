@@ -221,7 +221,7 @@
   <string name="frame_classic">Klassisch</string>
   <string name="frame_movie">Film</string>
   <string name="frame_semicircle">Halbkreis</string>
-  <string name="frame_white">wieß</string>
+  <string name="frame_white">weiß</string>
   <string name="gallery_cloud_provider_name">MiCloud Album</string>
   <string name="gallery_setting">Einstellungen</string>
   <string name="get_album_info_in_process">"Beantrage Informationen des geteilten Albums, bitte warten..."</string>
