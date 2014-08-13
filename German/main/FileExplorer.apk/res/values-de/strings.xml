@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_bind_prompt">"Migrating user data, your account will be temporarily locked, please wait..."</string>
-  <string name="add_task">Add task</string>
-  <string name="adding_upload_tasks">Adding upload tasks.</string>
-  <string name="already_signin_description">You are already signed in</string>
-  <string name="app_cache_cleanup_indication">%s cache</string>
-  <string name="app_cache_title">App cache</string>
-  <string name="app_garbage_cleanup_indication">%s app junk</string>
-  <string name="app_garbage_path">Location:</string>
-  <string name="app_garbage_title">App junk</string>
-  <string name="app_name">File Explorer</string>
+  <string name="account_bind_prompt">"Benutzerdaten werden migriert, ihr Account wird vorrübergehend gesperrt sein, bitte warten..."</string>
+  <string name="add_task">Aufgabe hinzufügen</string>
+  <string name="adding_upload_tasks">Upload Aufgabe wird hinzugefügt.</string>
+  <string name="already_signin_description">Sie sind bereits angemeldet</string>
+  <string name="app_cache_cleanup_indication">%s Cache</string>
+  <string name="app_cache_title">App Cache</string>
+  <string name="app_garbage_cleanup_indication">%s App Abfall</string>
+  <string name="app_garbage_path">Position:</string>
+  <string name="app_garbage_title">App Abfall</string>
+  <string name="app_name">Dateimanager</string>
   <string name="application_size_label">App</string>
-  <string name="background">Quiet download</string>
+  <string name="background">Stiller Download</string>
   <string name="big5_summary">The default encoding of the traditional Chinese version Windows system</string>
   <string name="big5_title">BIG5</string>
   <string name="bind_account">Bind to KuaiPan account</string>
